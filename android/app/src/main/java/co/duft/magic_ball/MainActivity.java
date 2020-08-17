@@ -1,4 +1,4 @@
-package co.duft.magic8ball;
+package co.duft.magic_ball;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
